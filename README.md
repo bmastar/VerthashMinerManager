@@ -14,4 +14,6 @@ This program is completely free and have no fee (Except fee of pool used)
 
 Feel free to comment
 
-Please donate on: vertcoin:VohNzJs4EPzG76UGsskm6XKh8P84sndcqy
+
+# Donations
+If you want to support the further development, please donate Vertcoin on: VohNzJs4EPzG76UGsskm6XKh8P84sndcqy
