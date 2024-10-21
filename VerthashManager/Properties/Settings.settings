@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VerthashManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MinerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">miner\VerthashMiner.exe</Value>
+    </Setting>
+    <Setting Name="ConfigPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config_file.conf</Value>
+    </Setting>
+    <Setting Name="DefaultUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Url = "stratum+tcp://p2p-spb.xyz:9171"</Value>
+    </Setting>
+    <Setting Name="DefaultUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Username = "VohNzJs4EPzG76UGsskm6XKh8P84sndcqy"</Value>
+    </Setting>
+    <Setting Name="DefaultPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
