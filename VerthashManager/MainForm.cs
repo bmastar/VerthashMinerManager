@@ -270,7 +270,7 @@ namespace VerthashManager
 
             if (txtMinerPath.Text != string.Empty && txtConfigFile.Text != string.Empty)
             {
-                string confFile = txtConfigFile.Text.Contains("\\") ? txtConfigFile.Text : "shell\\" + txtConfigFile.Text;
+                string confFile = txtConfigFile.Text.Contains("\\") ? txtConfigFile.Text : "miner\\" + txtConfigFile.Text;
 
                 FileInfo fileInfo = new FileInfo(confFile);
                 bool _gen = true;
@@ -301,7 +301,7 @@ namespace VerthashManager
 
         private void editToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string confFile = txtConfigFile.Text.Contains("\\") ? txtConfigFile.Text : "shell\\" + txtConfigFile.Text;
+            string confFile = txtConfigFile.Text.Contains("\\") ? txtConfigFile.Text : "miner\\" + txtConfigFile.Text;
             FileInfo fileInfo = new FileInfo(confFile);
             XmlEditorForm xmlEditorForm = new XmlEditorForm(fileInfo.FullName);
             xmlEditorForm.ShowDialog();
