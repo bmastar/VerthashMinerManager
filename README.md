@@ -1,0 +1,2 @@
+# VerthashMinerManager
+Verthash miner manager
