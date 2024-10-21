@@ -10,6 +10,8 @@ Below the available commands:
 * http://localhost:8000/startminer: start mining
 * http://localhost:8000/stopminer: stop mining
 
+This program is completely free and have no fee (Except fee of pool used)
+
 Feel free to comment
 
 Please donate on: vertcoin:VohNzJs4EPzG76UGsskm6XKh8P84sndcqy
