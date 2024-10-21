@@ -6,9 +6,9 @@ Verthash miner manager is the best Windows Gui for [VerthashMiner](https://githu
 Verthashminermanager offers the possibility to manage the miner via the webservice, this service is accessible via the link http://localhost:8000/
 
 Below the available commands:
-http://localhost:8000/minerinfo: see the information and statistics of the miner
-http://localhost:8000/startminer: start mining
-http://localhost:8000/stopminer: stop mining
+* http://localhost:8000/minerinfo: see the information and statistics of the miner
+* http://localhost:8000/startminer: start mining
+* http://localhost:8000/stopminer: stop mining
 
 Feel free to comment
 
